@@ -1,0 +1,17 @@
+.container{
+    margin: 20px 0;
+    background-color: #fcfcfc;
+    padding: 20px;
+    border-radius: 10px;
+}
+td.details-control {
+    background-image: url(../img/plus.png);
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+tr.shown td.details-control {
+    background-image: url(../img/remove.png);
+    background-size: 20%;
+}

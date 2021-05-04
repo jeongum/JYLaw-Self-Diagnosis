@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="341" viewBox="0 0 1920 341">
+    <defs>
+        <linearGradient id="ehgf97008a" x1=".046" x2=".927" y1=".638" y2=".631" gradientUnits="objectBoundingBox">
+            <stop offset="0"/>
+            <stop offset="1" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="cudvclmtlc" x1=".5" x2=".5" y1="0" y2="1" xlink:href="#ehgf97008a"/>
+        <clipPath id="f2sywfhc8b">
+            <path fill="#fff" stroke="#707070" d="M0 0H1920V341H0z"/>
+        </clipPath>
+    </defs>
+    <g clip-path="url(#f2sywfhc8b)">
+        <path fill="url(#ehgf97008a)" d="M0 0H539V112H0z" opacity="0.242" transform="rotate(-36 518.406 451.237)"/>
+        <circle cx="203" cy="203" r="203" fill="url(#cudvclmtlc)" opacity="0.619" transform="rotate(36 1201.86 2554.598)"/>
+    </g>
+</svg>
